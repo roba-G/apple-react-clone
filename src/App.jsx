@@ -1,8 +1,11 @@
 import "../src/resources/css/styles.css";
-import "../src/resources/css/bootstrap.css";
+// import "../src/resources/css/bootstrap.css";
 import '../src/resources/js/jquery-3.7.1';
-import '../src/resources/js/bootstrap';
+// import '../src/resources/js/bootstrap';
 import '../src/resources/js/script'
+import "bootstrap/dist/css/bootstrap.min.css";
+import "bootstrap/dist/js/bootstrap.bundle.min.js";
+
 
 import Header from "./components/Header";
 import Alert from "./components/Alert";
