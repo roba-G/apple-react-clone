@@ -1,5 +1,5 @@
 import "../src/resources/css/styles.css";
-import "../src/resources/js/script";
+import "./resources/js/FooterSection";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap/dist/js/bootstrap.bundle.min.js";
 
